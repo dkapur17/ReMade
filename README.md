@@ -21,7 +21,7 @@ For `Python` users, run:
 ```bash
 python -m http.server -p 8080
 ```
-`Node.js` users need to install the `http-server` module the first time around, if they havent already:
+`Node.js` users need to install the `http-server` module the first time around, if they haven't already:
 ```bash
 npm install -g http-server
 ```
@@ -31,3 +31,7 @@ http-server -p 8080
 ```
 
 Then open up you favorite browser that supports WebGL rendering and head to `localhost:8080`. Enjoy the game!
+
+#### Messing Around with the Games
+
+As mentioned above, all the games in this repository are made in Unity, more specifically `2019.4.0f1 LTS` version. So if you want to mess around and modify the games yourself, you'll need Unity set up in your system.
