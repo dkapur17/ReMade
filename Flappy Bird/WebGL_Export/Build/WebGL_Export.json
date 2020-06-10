@@ -1,0 +1,16 @@
+{
+"companyName": "dkapur17",
+"productName": "Flappy Bird ReMade",
+"productVersion": "1.0",
+"dataUrl": "WebGL_Export.data.unityweb",
+"wasmCodeUrl": "WebGL_Export.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_Export.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
