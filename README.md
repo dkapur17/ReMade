@@ -19,7 +19,7 @@ cd ReMade/<Game You Want to Play>/WebGL_Export
 Now you need to run a local server in the folder.
 For `Python` users, run:
 ```bash
-python -m http.server -p 8080
+python -m http.server 8080
 ```
 `Node.js` users need to install the `http-server` module the first time around, if they haven't already:
 ```bash
