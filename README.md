@@ -3,9 +3,15 @@
 
 ### A collection of popular games, recreated using the Unity Game Engine.
 
+##### Flappy Bird
+<img src="./Misc/Flappy.gif" width="300px"/>  
+
+##### Dino Game
+<img src="./Misc/Dino.gif" width="300px"/>  
+
 Most, if not all of the assets in the games are made from scratch.
 
-The purpose of this repo is just to up my Game Dev skills. Nothing fancy.
+The purpose of this repo is just to up my Game Dev skills and recreate some awesome game, understanding the game dynamics that drives them.
 
 #### Running the Games
 
