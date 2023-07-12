@@ -1,5 +1,8 @@
-![ReMade](./Logo.png)
+# ReMade
 
+<div align="center">
+    <img src="assets/Logo.png" width=300>
+</div>
 
 ### A collection of popular games, recreated using the Unity Game Engine.
 
